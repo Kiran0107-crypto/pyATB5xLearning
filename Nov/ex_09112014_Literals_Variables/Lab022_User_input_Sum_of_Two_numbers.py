@@ -32,5 +32,18 @@ print("Sub is ->", Sub)
 print("Mul is ->", Mul)
 print("Div is ->", Div)
 
+num3 = float(input("Enter the num 3: "))
+num4 = float(input("Enter the num 2: "))
+
+Sum2 = num3 + num4
+Sub2 = num3 - num4
+Mul2 = num3 * num4
+Div2 = num3 / num4
+
+print("Sum is ->", Sum2)
+print("Sub is ->", Sub2)
+print("Mul is ->", Mul2)
+print("Div is ->", Div2)
+
 # num1 -> 155
 # num2 -> 5
