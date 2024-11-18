@@ -1,4 +1,4 @@
-#Task 2 - Find out the output
+# Task 2 - Find out the output
 
 print(type(a))
 
@@ -7,4 +7,4 @@ if a == 10:
 else:
     print("Not Hello")
 
-#Output ->NameError: name 'a' is not defined
+# Output ->NameError: name 'a' is not defined
