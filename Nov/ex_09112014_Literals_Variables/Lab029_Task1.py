@@ -2,9 +2,9 @@
 #Take 3 input from User
 #Perform Sum, Subtraction, Multiplication and Division
 
-num1 = int(input("Enter first number"))
-num2 = int(input("Enter second number"))
-num3 = int(input("Enter third number"))
+num1 = float(input("Enter first number"))
+num2 = float(input("Enter second number"))
+num3 = float(input("Enter third number"))
 
 #Sum of three numbers
 Sum = num1+num2+num3
@@ -19,6 +19,6 @@ Mul= num1*num2*num3
 print(Mul)
 
 #Division
-Div=num1/num2/num3
+Div = (num1 / num2) / num3
 print(Div)
 
