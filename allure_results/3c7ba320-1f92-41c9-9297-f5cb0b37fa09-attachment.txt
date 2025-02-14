@@ -1,0 +1,1 @@
+{"firstname":"Sally","lastname":"Ericsson","totalprice":173,"depositpaid":true,"bookingdates":{"checkin":"2018-10-09","checkout":"2021-12-09"},"additionalneeds":"Breakfast"}

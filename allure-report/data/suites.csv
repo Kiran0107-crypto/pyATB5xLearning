@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_method3","Dec.ex_28122024_Pytest","Thu Feb 13 10:44:23 IST 2025","passed","Thu Feb 13 10:44:23 IST 2025","","test_Lab186_PyTest_Learning","",""
+"","0","test_method2","Dec.ex_28122024_Pytest","Thu Feb 13 10:44:24 IST 2025","failed","Thu Feb 13 10:44:24 IST 2025","","test_Lab187_PyTest_Learning02","",""
+"","0","test_method3","Dec.ex_28122024_Pytest","Thu Feb 13 10:44:24 IST 2025","passed","Thu Feb 13 10:44:24 IST 2025","","test_Lab187_PyTest_Learning02","",""
+"This Testcase check for positive create booking","1","Verify that create booking,with valida data is working","Dec.ex_28122024_Pytest","Thu Feb 13 10:44:24 IST 2025","failed","Thu Feb 13 10:44:24 IST 2025","","test_Lab188_PyTest_Learning03_AllureReport","",""
+"This Testcase check for negative create booking","0","Verify that create booking,with invalid data is working","Dec.ex_28122024_Pytest","Thu Feb 13 10:44:24 IST 2025","passed","Thu Feb 13 10:44:24 IST 2025","","test_Lab188_PyTest_Learning03_AllureReport","",""
+"This Testcase check for negative create booking","0","Verify that create booking,with invalid data is working","Dec.ex_28122024_Pytest","Thu Feb 13 10:44:24 IST 2025","passed","Thu Feb 13 10:44:24 IST 2025","","test_Lab188_PyTest_Learning03_AllureReport","",""
+"","0","test_method2","Dec.ex_28122024_Pytest","Thu Feb 13 10:44:23 IST 2025","failed","Thu Feb 13 10:44:23 IST 2025","","test_Lab186_PyTest_Learning","",""
